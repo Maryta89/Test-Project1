@@ -3,10 +3,20 @@ h1 {
   text-align: center;
   font-size: 36px;
 }
+
 .box {
   width: 300px;
   padding: 20px;
   background-color: white;
   border: 1px solid #ddd;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+{
+background.color: lightblue;
+  font-family: Arial, sans-serif;
+}
+h2 {
+  color: darkgreen;
+  font-size: 28px;
 }
